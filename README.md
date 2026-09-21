@@ -1,4 +1,3 @@
-
 # PHP
 Using two php files one called index.php and view.php 
 inside the view.php file it lies the html code for running the website
@@ -36,6 +35,3 @@ This file includes:
 
 
   # WELCOME TO THE LIBRARY MANAGMENT SYSTEM
-   
-
-   
